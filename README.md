@@ -1,6 +1,8 @@
 # 💫 About Me:
-I'm a Computer Science major at NYU double-minoring in Cybersecurity and Game Engineering.<br>Currently learning about game development, front-end development, and other related course material!
 
+Versatile and results-driven Computer Science undergraduate (minors in Cybersecurity and Game Engineering) with hands-on experience in full-stack development, real-time systems, and game engine design. Skilled in C++, Java, JavaScript, Python, and modern frameworks for web, desktop, and game applications.
+
+I have built multiple projects, ranging from real-time audio transcription tools to custom game engines and 2D/3D games, with a focus on clean, maintainable code, modular architecture, and engaging user experiences. As a freelance developer and technical artist, I have delivered interactive assets, animations, and scripts for live multiplayer game environments, combining technical rigor with creative design. Passionate about solving challenging engineering problems, building scalable systems, and creating tools and experiences that delight users.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/justindutta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:justin.dutta@nyu.edu) 
